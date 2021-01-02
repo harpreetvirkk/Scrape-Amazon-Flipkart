@@ -1,0 +1,32 @@
+products:
+    css: 'div[data-component-type="s-search-result"]'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        Title:
+            css: 'h2 a.a-link-normal.a-text-normal'
+            xpath: null
+            type: Text
+        Label:
+            css: 'span.a-badge-text'
+            xpath: null
+            type: Text
+        Rating:
+            css: 'div.a-row.a-size-small span:nth-of-type(1)'
+            xpath: null
+            type: Attribute
+            attribute: aria-label
+        RatingCount:
+            css: 'div.a-row.a-size-small span:nth-of-type(2)'
+            xpath: null
+            type: Attribute
+            attribute: aria-label
+        AmazonPrice:
+            css: 'span.a-price-whole' 
+            xpath: null
+            type: Text
+        ProductPageUrl:
+            css: 'h2 a.a-link-normal.a-text-normal'
+            xpath: null
+            type: Link

@@ -1,0 +1,4 @@
+last:
+    css: 'li.a-disabled'
+    xpath: null
+    type: Text

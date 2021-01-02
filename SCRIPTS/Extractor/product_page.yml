@@ -1,0 +1,47 @@
+Title:
+    css: '#productTitle'
+    type: Text
+Brand:
+    css: '#bylineInfo'
+    type: Text
+Rating:
+    css: 'span.a-icon-alt'
+    type: Text
+RatingCount:
+    css: 'span#acrCustomerReviewText'
+    type: Text
+AnsweredQuestionsCount:
+    css: 'span.celwidget'
+    type: Text
+MRP:
+    css: 'span.priceBlockStrikePriceString.a-text-strike'
+    type: Text
+AmazonPrice:
+    css: 'span#priceblock_ourprice'
+    type: Text
+Savings:
+    css: '#regularprice_savings > td.a-span12.a-color-price.a-size-base.priceBlockSavingsString'
+    type: Text
+ShortDescription:
+    css: '#featurebullets_feature_div'
+    type: Text
+ProductDescription:
+    css: '#productDescription'
+    type: Text
+BestSellerRank:
+    css: '#SalesRank > td.value'
+    type: Text
+DateFirstAvailable:
+    xpath: '//*[@id="prodDetails"]/div[2]/div[2]/div[1]/div[2]/div/div/table/tbody/tr[4]/td[2]'
+    type: Text
+Breadcrumbs:
+    css: '#wayfinding-breadcrumbs_feature_div > ul'
+    type: Text
+Seller:
+    css: '#sellerProfileTriggerId'
+    type: Text
+FullfilledBy:
+    css: '#SSOFpopoverLink'
+    type: Text
+
+

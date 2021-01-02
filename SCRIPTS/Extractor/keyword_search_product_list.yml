@@ -1,0 +1,21 @@
+products:
+    css: 'div[data-component-type="s-search-result"]'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        Sponsored:
+            css: 'span.a-size-mini.a-color-secondary'
+            type: Text
+        Title:
+            css: 'h2 a.a-link-normal.a-text-normal'
+            xpath: null
+            type: Text
+        Label:
+            css: 'span.a-badge-text'
+            xpath: null
+            type: Text
+        ProductPageUrl:
+            css: 'h2 a.a-link-normal.a-text-normal'
+            xpath: null
+            type: Link

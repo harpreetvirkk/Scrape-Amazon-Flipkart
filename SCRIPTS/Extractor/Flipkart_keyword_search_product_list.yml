@@ -1,0 +1,30 @@
+url_a:
+    css: '._1UoZlX'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        ProductPageUrl:
+            css: 'a._31qSD5'
+            xpath: null
+            type: Link
+        Label:
+            css: 'div._2qOAoY'
+            xpath: null
+            type: Text
+url_b:
+    css: '._3liAhj'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        ProductPageUrl:
+            css: 'a.Zhf2z-'
+            xpath: null
+            type: Link  
+        Label:
+            css: 'div._2qOAoY'
+            xpath: null
+            type: Text    
+
+    

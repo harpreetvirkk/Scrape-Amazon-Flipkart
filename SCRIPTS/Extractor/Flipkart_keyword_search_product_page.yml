@@ -1,0 +1,36 @@
+Title:
+    css: 'span._35KyD6'
+    type: Text
+FlipkartAssured:
+    css: 'img.gYMg9u'
+    type: Image
+Rating:
+    css: 'div.hGSR34'
+    type: Text
+RatingCount:
+    css: 'span._38sUEc'
+    type: Text
+MRP:
+    css: 'div._3auQ3N._1POkHg'
+    type: Text
+FlipkartPrice:
+    css: 'div._1vC4OE._3qQ9m1'
+    type: Text
+DiscountPercentage:
+    css: 'div.VGWI6T._1iCvwn'
+    type: Text
+ProductDescription:
+    css: 'div._3la3Fn._1zZOAc'
+    type: Text
+Breadcrumbs:
+    css: 'div._1joEet'
+    type: Text
+Seller:
+    css: '#sellerName'
+    type: Text
+# FullfilledBy:
+#     css: '#SSOFpopoverLink'
+#     type: Text
+
+
+
